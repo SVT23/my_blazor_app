@@ -22,3 +22,4 @@ _Note: If you're using the Azure Functions CLI tools, refer to [the documentatio
 ## Deploy to Azure Static Web Apps
 
 This application can be deployed to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps), to learn how, check out [our quickstart guide](https://aka.ms/blazor-swa/quickstart).
+![Blazor Web App](https://user-images.githubusercontent.com/89869300/134279721-3393c172-024b-4115-a46e-4952ba642b47.PNG)
