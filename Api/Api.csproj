@@ -1,4 +1,8 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿// Spence Van Tiem
+// https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
+// https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <AzureFunctionsVersion>v3</AzureFunctionsVersion>
