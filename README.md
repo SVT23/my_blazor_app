@@ -1,3 +1,4 @@
+![Blazor Web App with Input Output](https://user-images.githubusercontent.com/89869300/135200764-ca1149b4-71ee-4e66-8434-f8aa2b19c98e.PNG)
 # Blazor Starter Application
 
 This template contains an example [Blazor WebAssembly](https://docs.microsoft.com/aspnet/core/blazor/?view=aspnetcore-3.1#blazor-webassembly) client application, a C# [Azure Functions](https://docs.microsoft.com/azure/azure-functions/functions-overview) and a C# class library with shared code.
