@@ -4,11 +4,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace BlazorApp.Client
+namespace BlazorApp.Client // Provides a scope to the identifiers inside it --> Blazor 
 {
-    public class TodoItem
+    public class TodoItem // Create the public class called TodoItem
     {
-        public string Title { get; set; }
-        public bool IsDone { get; set; }
+        public string Title { get; set; } // Get & Set Title 
+        public bool IsDone { get; set; } // Get & Set IsDone
     }
 }
