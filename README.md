@@ -1,3 +1,6 @@
+Azure Link:
+https://icy-sky-0dae9da10.azurestaticapps.net
+
 ![Blazor Web App with Input Output](https://user-images.githubusercontent.com/89869300/135200764-ca1149b4-71ee-4e66-8434-f8aa2b19c98e.PNG)
 # Blazor Starter Application
 
